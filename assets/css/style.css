@@ -128,7 +128,7 @@ body {
     justify-content: end;
     gap: 2rem;
     padding: 6px 16px;
-    width: auto;
+    width: fit-content;
     border: 1px solid rgba(255, 255, 255, 0.4);
     border-radius: 8px;
     color: #fff;
